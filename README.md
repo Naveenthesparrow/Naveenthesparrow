@@ -123,10 +123,10 @@
 	<a href="https://github.com/Naveenthesparrow/Instagram-Clone">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=Instagram-Clone&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-     <a href="https://github.com/kalviumcommunity/S57_Local_Events_Aggregator">
+     	<a href="https://github.com/kalviumcommunity/S57_Local_Events_Aggregator">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=VibesHub&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-     <a href="https://github.com/Naveenthesparrow/Pac-Man-Game">
+    	<a href="https://github.com/Naveenthesparrow/Pac-Man-Game">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=Pac-Man-Game&theme=tokyonight" alt="GitHub Stats" />
     	</a>
      <a href="https://github.com/kalviumcommunity/S57_List_of_movies_to_watch_in_this_weekend">
