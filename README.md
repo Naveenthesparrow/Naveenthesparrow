@@ -121,26 +121,27 @@
 <div>
   <p align="center">
 	<a href="https://github.com/Naveenthesparrow/Instagram-Clone">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=Instagram-Clone&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=Instagram-Clone&theme=tokyonight" alt="Instagram Clone" />
     	</a>
      	<a href="https://github.com/kalviumcommunity/S57_Local_Events_Aggregator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=VibesHub&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kalviumcommunity&repo=S57_Local_Events_Aggregator&theme=tokyonight" alt="Local Events Aggregator" />
     	</a>
     	<a href="https://github.com/Naveenthesparrow/Pac-Man-Game">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=Pac-Man-Game&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=Pac-Man-Game&theme=tokyonight" alt="Pac-Man Game" />
     	</a>
      <a href="https://github.com/kalviumcommunity/S57_List_of_movies_to_watch_in_this_weekend">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=MoviesRockers&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kalviumcommunity&repo=S57_List_of_movies_to_watch_in_this_weekend&theme=tokyonight" alt="List of Movies to Watch" />
     	</a>
      <a href="https://github.com/Naveenthesparrow/Planet-Picker-JS">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=Planet-Picker-JS&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=Planet-Picker-JS&theme=tokyonight" alt="Planet Picker JS" />
     	</a>
      <a href="https://github.com/Naveenthesparrow/Front-End-CA3">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=DishDiscover&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=Front-End-CA3&theme=tokyonight" alt="Front End CA3" />
     	</a> 	
   </p>
 </div>
 </details>
+
 
 </br></br>
 	
