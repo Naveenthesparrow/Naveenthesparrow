@@ -118,11 +118,12 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=Planet-Picker-JS&theme=tokyonight" alt="Planet Picker JS" />
     	</a>
      <a href="https://github.com/Naveenthesparrow/Front-End-CA3">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=Dishdiscover&theme=tokyonight" alt="Front End CA3" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=Front-End-CAs3&theme=tokyonight" alt="Front End CA3" />
     	</a> 	
   </p>
 </div>
 </details>
+
 
 
 
