@@ -104,7 +104,6 @@
   <p align="center">
 	<a href="https://github.com/Naveenthesparrow/Instagram-Clone">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=Instagram-Clone&theme=tokyonight" alt="Instagram Clone" />
-<a href="https://naveenthesparrow.github.io/Instagram-Clone">
     	</a>
      	<a href="https://github.com/kalviumcommunity/S57_Local_Events_Aggregator">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kalviumcommunity&repo=S57_Local_Events_Aggregator&theme=tokyonight" alt="Local Events Aggregator" />
@@ -119,11 +118,12 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=Planet-Picker-JS&theme=tokyonight" alt="Planet Picker JS" />
     	</a>
      <a href="https://github.com/Naveenthesparrow/Front-End-CA3">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=DishDiscover&theme=tokyonight" alt="Front End CA3" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveenthesparrow&repo=Dishdiscover&theme=tokyonight" alt="Front End CA3" />
     	</a> 	
   </p>
 </div>
 </details>
+
 
 
 </br></br>
